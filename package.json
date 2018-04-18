@@ -1,0 +1,9 @@
+{
+  "name": "vue-less-vars",
+  "version": "0.0.1",
+  "description": "A vue wrapper for visualizing and modifying less variables in browser.",
+  "main": "index.js",
+  "repository": "https://github.com/12px/vue-less-vars.git",
+  "author": "12px <dalton@12px.io>",
+  "license": "MIT"
+}
